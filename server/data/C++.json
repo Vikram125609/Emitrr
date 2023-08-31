@@ -1,0 +1,87 @@
+[
+  {
+    "question": "What is the syntax to declare a pointer in C++?",
+    "options": ["int ptr;", "pointer int;", "int *ptr;", "ptr int;"],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which of the following is the correct way to initialize an array in C++?",
+    "options": [
+      "int numbers[5] = {1, 2, 3, 4, 5};",
+      "int numbers[] = {1, 2, 3, 4, 5};",
+      "int numbers[5] = (1, 2, 3, 4, 5);",
+      "int numbers[1:5] = {1, 2, 3, 4, 5};"
+    ],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "In C++, what is the correct operator to access the member of a class using a pointer?",
+    "options": [".", "->", "::", "=>"],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which C++ data type is used to store a single character?",
+    "options": ["char", "character", "string", "chr"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What does the 'cin' object in C++ allow you to do?",
+    "options": [
+      "Print text to the console",
+      "Read input from the console",
+      "Perform mathematical calculations",
+      "Allocate memory"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the purpose of the 'break' statement in a switch statement in C++?",
+    "options": [
+      "To terminate the program",
+      "To exit the switch statement",
+      "To skip the current iteration of a loop",
+      "To restart the loop"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which keyword is used to define a function in C++?",
+    "options": ["func", "define", "def", "void"],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the output of '5 / 2' in C++?",
+    "options": ["2.5", "2", "2.0", "2.25"],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the header file extension in C++?",
+    "options": [".hpp", ".hxx", ".h", ".hh"],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which C++ keyword is used to allocate memory for a variable on the heap?",
+    "options": ["heapalloc", "alloc", "malloc", "new"],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  }
+]

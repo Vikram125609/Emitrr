@@ -1,0 +1,97 @@
+[
+  {
+    "question": "What is the correct way to include an external JavaScript file?",
+    "options": [
+      "script href='script.js'",
+      "javascript src='script.js'",
+      "js file='script.js'",
+      "script src='script.js'"
+    ],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which of the following is not a JavaScript data type?",
+    "options": ["String", "Boolean", "Number", "Float"],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What does the '===' operator do in JavaScript?",
+    "options": [
+      "Compares values for equality, allowing type coercion",
+      "Assigns a value to a variable",
+      "Compares values for equality, without type coercion",
+      "Performs a logical AND operation"
+    ],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which built-in method in JavaScript is used to sort an array of elements?",
+    "options": ["sort()", "order()", "change()", "arrange()"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the purpose of the 'this' keyword in JavaScript?",
+    "options": [
+      "It refers to the current executing function",
+      "It refers to the parent function",
+      "It refers to the global object",
+      "It refers to the object that's currently being constructed"
+    ],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which of the following is not a looping structure in JavaScript?",
+    "options": ["for loop", "while loop", "do-while loop", "repeat loop"],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What does the 'localStorage' object in JavaScript allow you to do?",
+    "options": [
+      "Send HTTP requests",
+      "Access and modify browser history",
+      "Store key-value pairs in a web browser",
+      "Create and manage databases"
+    ],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "In JavaScript, which keyword is used to declare a variable?",
+    "options": ["variable", "declare", "var", "let"],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the purpose of the 'addEventListener' method in JavaScript?",
+    "options": [
+      "To add a new HTML element to the DOM",
+      "To listen for and respond to events on an HTML element",
+      "To change the style of an HTML element",
+      "To remove an HTML element from the DOM"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which method is used to convert a JSON string to a JavaScript object?",
+    "options": ["parse()", "stringify()", "convert()", "fromJson()"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  }
+]

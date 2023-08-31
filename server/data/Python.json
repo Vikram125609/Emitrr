@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Which of the following is used to define a block of code in Python?",
+    "options": [
+      "Curly braces {}",
+      "Parentheses ()",
+      "Indentation",
+      "Square brackets []"
+    ],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which built-in function is used to get the length of a list?",
+    "options": ["len()", "length()", "count()", "size()"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the correct way to create a function in Python?",
+    "options": [
+      "create my_function():",
+      "def my_function():",
+      "new function my_function():",
+      "function my_function():"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which of the following is an example of a mutable data type in Python?",
+    "options": ["String", "Tuple", "Integer", "List"],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What does the 'import' keyword do in Python?",
+    "options": [
+      "Imports a module or package",
+      "Imports a variable",
+      "Imports a class",
+      "Imports a function"
+    ],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "In Python, what is the purpose of the 'if' statement?",
+    "options": [
+      "To define a loop",
+      "To define a function",
+      "To handle exceptions",
+      "To make decisions"
+    ],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What does the 'range()' function in Python generate?",
+    "options": [
+      "A list of integers",
+      "A single number",
+      "A range object",
+      "A dictionary"
+    ],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which method is used to remove an item from a list in Python?",
+    "options": ["erase()", "delete()", "remove()", "discard()"],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the output of '3 + 4 * 2' in Python?",
+    "options": ["14", "11", "10", "15"],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which keyword is used to create a copy of an object in Python?",
+    "options": ["copy", "clone", "duplicate", "copy()"],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  }
+]

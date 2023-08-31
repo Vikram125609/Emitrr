@@ -1,0 +1,92 @@
+[
+  {
+    "question": "In Java, which of the following is used to create an instance of a class?",
+    "options": ["newInstance()", "createInstance()", "new()", "getInstance()"],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the correct way to declare a constant variable in Java?",
+    "options": [
+      "const int num = 5;",
+      "final int num = 5;",
+      "let num = 5;",
+      "constant int num = 5;"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which data type is used to store a single character in Java?",
+    "options": ["char", "character", "String", "chr"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the purpose of the 'break' statement in Java?",
+    "options": [
+      "To terminate the program",
+      "To exit a loop or switch statement",
+      "To skip the current iteration of a loop",
+      "To restart a loop from the beginning"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "In Java, objects are passed to methods by...",
+    "options": [
+      "pass-by-value",
+      "pass-by-reference",
+      "pass-by-object",
+      "pass-by-pointer"
+    ],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which keyword is used to define a subclass in Java?",
+    "options": ["sub", "extends", "inherits", "subclass"],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the return type of the 'main' method in Java?",
+    "options": ["void", "int", "String", "main"],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which Java keyword is used to create a new object?",
+    "options": ["new", "create", "alloc", "object"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the Java equivalent of the C++ 'cout' statement?",
+    "options": [
+      "System.print()",
+      "System.out.print()",
+      "console.print()",
+      "print.out()"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which Java package contains the Random class?",
+    "options": ["java.util", "java.random", "java.math", "java.randomness"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  }
+]

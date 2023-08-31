@@ -1,0 +1,87 @@
+[
+  {
+    "question": "In Ruby, how do you define a variable?",
+    "options": ["var x = 5;", "let x = 5;", "x = 5;", "$x = 5;"],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the Ruby method used to output text to the console?",
+    "options": ["console.log()", "print()", "puts()", "display()"],
+    "correct_answer": 2,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which of the following is a correct way to define a method in Ruby?",
+    "options": [
+      "function my_method",
+      "def my_method",
+      "method my_method",
+      "define my_method"
+    ],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the purpose of the 'if' statement in Ruby?",
+    "options": [
+      "To define a loop",
+      "To define a function",
+      "To handle exceptions",
+      "To make decisions"
+    ],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which Ruby method is used to join elements of an array into a single string?",
+    "options": ["join()", "concat()", "merge()", "combine()"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the Ruby equivalent of the 'null' value in other programming languages?",
+    "options": ["undefined", "nil", "none", "empty"],
+    "correct_answer": 1,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which symbol is used to define a block in Ruby?",
+    "options": ["|||", "{}", "<>", "do end"],
+    "correct_answer": 3,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the Ruby operator for exponentiation?",
+    "options": ["**", "^", "^^", "exp"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "Which method is used to add an element to the end of an array in Ruby?",
+    "options": ["push()", "add()", "append()", "insert()"],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  },
+  {
+    "question": "What is the purpose of the 'each' method in Ruby?",
+    "options": [
+      "To iterate over an array",
+      "To check if a variable is defined",
+      "To define a new class",
+      "To remove an element from an array"
+    ],
+    "correct_answer": 0,
+    "markedCorrect": 0,
+    "markedIncorrect": 0
+  }
+]

@@ -18,6 +18,16 @@ const signup = async (req, res, next) => {
     const { access_token } = response?.data;
     const getUserData = await axios.get(`https://www.googleapis.com/oauth2/v3/userinfo?access_token=${access_token}`);
     const { sub, name, given_name, family_name, picture, email } = getUserData.data;
+    const userAlreadyExist = await User.findOne({ email: email });
+    if (userAlreadyExist) {
+        const token = getToken({ _id: userAlreadyExist._id, email: email });
+        const cookieData = {
+            _id: userAlreadyExist._id, email: email, picture: picture, given_name: given_name, token: token, name: name,
+        }
+        res.cookie('user', cookieData, { expire: 259200000 + Date.now() });
+        res.redirect('http://localhost:3000/home');
+        return;
+    }
     const user = new User({ sub, name, given_name, family_name, picture, email });
     await user.save();
     const token = getToken({ _id: user._id, email: email });

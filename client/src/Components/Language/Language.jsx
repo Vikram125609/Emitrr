@@ -26,7 +26,7 @@ const Language = () => {
         <div style={{ marginTop: '40vh' }} className="flex justify-center space-x-8">
             <div className="w-72">
                 <Select onChange={handleLanguage} label="Select Language">
-                    <Option value="C++">C++</Option>
+                    <Option value="Cpp">C++</Option>
                     <Option value="Java">Java</Option>
                     <Option value="Python">Python</Option>
                     <Option value="Ruby">Ruby</Option>
